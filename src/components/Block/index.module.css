@@ -1,0 +1,12 @@
+.block {
+    width: 320px;
+    height: 320px;
+    font-size: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #333;
+    cursor: pointer;
+    user-select: none;
+}
